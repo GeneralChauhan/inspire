@@ -1,6 +1,5 @@
 # Image Generator Project using DALL-E API
 
-![Generated Image](link_to_sample_image.jpg)
 
 ## Overview
 
