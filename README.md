@@ -14,10 +14,7 @@ Welcome to the Image Generator Project, an exploration of the DALL-E API's capab
   - [Installation](#installation)
   - [Configuration](#configuration)
 - [Running the Project](#running-the-project)
-- [Usage](#usage)
-- [Disclaimer](#disclaimer)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## How It Works
 
@@ -63,6 +60,7 @@ npm install
 cd ../server
 npm install
 
-### Running Dev 
+
+### Running The Project
 cd ../client
 npm run dev
